@@ -1,0 +1,8 @@
+entities/Sku.class
+pages/DetalleProducto.class
+pages/CarroCompra.class
+pages/HomePage.class
+util/FileDataProvider.class
+test/Test1.class
+config/ConfiguracionBase.class
+dataProvider/Dataprovider.class
