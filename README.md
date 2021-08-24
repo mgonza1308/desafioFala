@@ -1,6 +1,11 @@
 # desafioFala
 Desafio
+Maven
+cd /usr/local/Cellar/maven/3.8.2/libexec/bin
+source mvn
 Para ejecurar: mvn package
+
+
 
 Casos de prueba:
 
